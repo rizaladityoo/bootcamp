@@ -25,4 +25,4 @@ https://www.cloud-consulting.eu/en/blog/public-vs-private-vs-hybrid-cloud-what-i
 - cara kerjanya client yang melakukan request diterima oleh severse proxy ke beberapa server tujuan dan diload balancing
 https://www.itugasmu.com/2019/12/proxy-server-adalah-server-yang.html
 
-8. 
+8. https://www.youtube.com/watch?v=RyVZ2L9X6wU&list=PLCZlgfAG0GXAlFUKwVFiMVlmLHMymFM6k&index=2
